@@ -36,14 +36,20 @@ Copy code
 └── README.md          # Project README file
 
 🚀 Getting Started
+
 To view the website locally:
+
  https://suraj1922.github.io/Gaming_server/
 
 
 Homepage
+
 Gamingpage
+
 Events Section
+
 📝 Contributing
+
 Feel free to fork the repository and submit a pull request with improvements or bug fixes. All contributions are welcome!
 
 Enjoyed the project? Don’t forget to give it a ⭐ on GitHub!
